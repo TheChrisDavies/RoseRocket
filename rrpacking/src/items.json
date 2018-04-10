@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1001",
+        "name" : "tablet",
+        "weight" : "3",
+        "box_id" : null
+    },
+    {
+        "id" : "1002",
+        "name" : "switch",
+        "weight" : "5",
+        "box_id" : null
+    },
+    {
+        "id" : "1003",
+        "name" : "taco",
+        "weight" : "1",
+        "box_id" : null
+    },
+    {
+        "id" : "1004",
+        "name" : "xbox",
+        "weight" : "10",
+        "box_id" : null
+    },
+    {
+        "id" : "1005",
+        "name" : "brick",
+        "weight" : "8",
+        "box_id" : null
+    },
+    {
+        "id" : "1006",
+        "name" : "tv",
+        "weight" : "40",
+        "box_id" : null
+    }
+]

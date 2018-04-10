@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.itemz{
+  border: 1px solid black;
+  min-height: 50px;
+  background-color: pink;
+  margin: 5px 0px;
+  text-transform: capitalize;
+}
+.boxz{
+  border: 1px solid red;
+  min-height: 50px;
+  background-color: lightblue;
+  margin: 5px 0px;
+  text-transform: capitalize;
+}

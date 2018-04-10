@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "909a25",
+        "name" : "box H",
+        "total_allowed_weight" : "25"
+    },
+    {
+        "id" : "878b36",
+        "name" : "box O",
+        "total_allowed_weight" : "10"
+    },
+    {
+        "id" : "221c86",
+        "name" : "box W",
+        "total_allowed_weight" : "8"
+    },
+    {
+        "id" : "120d386",
+        "name" : "box A",
+        "total_allowed_weight" : "5"
+    }
+]
